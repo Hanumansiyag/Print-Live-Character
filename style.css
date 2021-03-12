@@ -24,6 +24,7 @@ body{
 	border-radius: 20px;
 }
 #msg{
+	padding: 2%;
 	margin-top: 2%;
 	height: 60px;
 	width: 700px;
@@ -41,6 +42,7 @@ input{
 	font-size: 25px;
 }
 .first{
+	padding: 2%;
 	margin-top: 5%;
 	font-size: 20px;
 	width: 100%;
